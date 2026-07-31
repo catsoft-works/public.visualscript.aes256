@@ -1,0 +1,16 @@
+{
+    "name": "VisualScript.Runtime.AES256",
+    "rootNamespace": "VisualScript.Runtime.AES256",
+    "references": [
+        "GUID:1c5e1808a1a3e413580dc3170b1d712d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

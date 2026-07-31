@@ -1,0 +1,20 @@
+{
+    "name": "VisualScript.Editor.AES256",
+    "rootNamespace": "VisualScript.Editor.AES256",
+    "references": [
+        "GUID:deaf9cd92f08d4685998537f44136b7e",
+        "GUID:1c5e1808a1a3e413580dc3170b1d712d",
+        "GUID:b283894556f234d219cedf6339e35f56"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

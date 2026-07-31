@@ -1,0 +1,23 @@
+{
+  "name": "works.catsoft.visualscript-aes256",
+  "version": "1.0.1",
+  "displayName": "Visual Script - AES256",
+  "description": "Official support for AES256",
+  "documentationUrl": "https://docs.visualscript.dev",
+  "changelogUrl": "https://visualscript.dev/changelog",
+  "licensesUrl": "https://visualscript.dev/license",
+  "dependencies": {
+    "com.unity.ugui": "2.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0",
+    "works.catsoft.visualscript": "1.0.1"
+  },
+  "keywords": [
+    "Visual Scripting"
+  ],
+  "author": {
+    "name": "Catsoft Works",
+    "email": "hello@catsoft.works",
+    "url": "https://catsoft.works"
+  }
+}
