@@ -12,8 +12,11 @@ namespace VisualScript.Editor.AES256
         {
             VisualElement content = new VisualElement();
 
-            SerializedProperty secret =  property.FindPropertyRelative("m_Secret");
+            SerializedProperty secret = property.FindPropertyRelative("m_Secret");
             content.Add(new PropertyField(secret));
+
+            SerializedProperty iterations = property.FindPropertyRelative("m_Iterations");
+            content.Add(new PropertyField(iterations));
 
             return content;
         }
